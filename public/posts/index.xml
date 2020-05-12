@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on ~ Welome fellow Traveller ~</title>
+		<link>https://example.com/posts/</link>
+		<description>Recent content in Posts on ~ Welome fellow Traveller ~</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 20 Apr 2020 14:44:49 +0200</lastBuildDate>
+		<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Gratitude</title>
+			<link>https://example.com/posts/gratitude/</link>
+			<pubDate>Mon, 20 Apr 2020 14:44:49 +0200</pubDate>
+			
+			<guid>https://example.com/posts/gratitude/</guid>
+			<description>In this day and world it&amp;rsquo;s easy to focus on things/experiences which you don&amp;rsquo;t have. Let&amp;rsquo;s go against the main-stream &amp;amp; look into what you already have. Gratitude is the state of being grateful; a positive emotional state in which one recognizes and appreciates all the wonders what one has received. Research shows, that taking time to experience gratitude or thankfulness can make you happier &amp;amp; both physically and emotionally healthier.</description>
+			<content type="html"><![CDATA[<p>In this day and world it&rsquo;s easy to focus on things/experiences which you don&rsquo;t have. Let&rsquo;s go against the main-stream &amp; look into what you already have.
+Gratitude is the state of being grateful; a positive emotional state in which one recognizes and appreciates all the wonders what one has received. Research shows, that taking time to experience gratitude or thankfulness can make you happier &amp; both physically and emotionally healthier.</p>
+<p>Take a moment to recall the last time you practiced gratitude. Let&rsquo;s continue this practice now and give 5 minutes to think about all the things you can be grateful for at this moment. They can be little - even minoculus - things/mundane, everday experiences or huge stuff/rare events. The point is to bring those to your mind and actively exercise being grateful.</p>
+<p>How does it feel in your body? Any emotions came along?</p>
+<p>If you liked it, you could practice it on a daily/weekly/whatever suits you basis. You might feel like writing down a list about all the things you are grateful for, you could even place the list in a place visible for you.<br>
+Other way to pratice gratitude is to think about someone who you have not expressed your honest gratitude to lately and do it! The best if you can do it in person but it&rsquo;s ok to videochat/call/write/etc.</p>
+<p>source: <a href="https://doi.org/10.1002/jclp.22020">https://doi.org/10.1002/jclp.22020</a></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
